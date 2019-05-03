@@ -32,9 +32,9 @@ weight = 1
 
 ## Statistics communicated
 
-This is thought of as space where I communicate everything I produce within the field of data science. Data science is a field where communication is a main skill. That is because as data scientist you will have to communicate to other professionals about current problems. You wil have to communicate to your computer to do things for you. You will have to communicate the results of your work as exciting story to different stakeholders. You also may - but not have to - talk to fellow collegues what you have learnt from past projects so they won't do the same mistake. And you may - but not have to - teach the next generation of data scientists by providing courses and workshops. 
+This website is thought of as space where I communicate everything I produce within the field of data science. Why communicate? Data science is a field where communication matters. That is because as data scientist you will have to communicate to other professionals about current problems. You wil have to communicate to your computer to do things for you. You will have to communicate the results of your work as exciting story to different stakeholders. You also may - but not have to - talk to fellow collegues what you have learnt from past projects so they won't do the same mistake. And you may - but not have to - teach the next generation of data scientists by providing courses and workshops. 
 
-If you want to learn more about me or my projects, check out my [GitHub Page](https://github.com/ThiesDS), where I communicate my software output. Or follow me on [Twitter](https://twitter.com/Thies_DS) if you're interested in my mental dump. If you want to communicate directly, write a good old [E-Mail](mailto:thies@traum-ferienwohnungen.de).
+If you want to learn more about me and my projects, check out my [GitHub Page](https://github.com/ThiesDS), where I communicate my software output. Or follow me on [Twitter](https://twitter.com/Thies_DS) if you're interested in my mental dump. If you want to communicate directly, write a good old [E-Mail](mailto:thies@traum-ferienwohnungen.de).
 
 ## Data Science community
 
