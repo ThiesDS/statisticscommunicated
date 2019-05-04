@@ -9,7 +9,7 @@ time_start = 2019-06-04T18:00:00
 time_end = 2019-06-04T20:00:00
 
 # Abstract and optional shortened version.
-abstract = "Training and testing of machine learning models is relatively easy, especially with R's well suited libraries, e.g. caret. However, if the end user of a machine learning model is not another machine but humans – especially those who don’t know much about machine learning models – our experience is that the main focus should not be on training and testing the model (e.g. pushing accuracy to the limit) but on how you can ensure that the user will use your predictions to create value for your company. Hence, this talk will be on how we leverage R in large parts of an integrated machine learning pipeline that utilizes a machine learning model for customer churn predictions to improve our customer support."
+abstract = "Training and testing of machine learning models is relatively easy, especially with R's well suited libraries, e.g. caret. However, if the end user of a machine learning model is not another machine but humans – especially those who don’t know much about machine learning models – our experience is that the main focus should not be on training and testing the model (e.g. pushing accuracy to the limit) but on how you can ensure that the user will use your predictions to create value for your company. Hence, this talk will be on how we leverage R in large parts of an integrated machine learning pipeline that utilizes a prediction model for customer churn to improve our customer support."
 abstract_short = ""
 
 # Name of event and optional event URL.
