@@ -36,10 +36,10 @@ This website is thought of as space where I communicate everything I produce wit
 
 If you want to learn more about me and my projects, check out my [GitHub Page](https://github.com/ThiesDS), where I communicate my software output. Or follow me on [Twitter](https://twitter.com/Thies_DS) if you're interested in my mental dump. If you want to communicate directly, write a good old [E-Mail](mailto:thies@traum-ferienwohnungen.de).
 
-## Data Science community
+## Data-Lounge-Bremen
 
 In the beginning of 2018 we started the local meetup group [Data-Lounge-Bremen](https://www.meetup.com/de-DE/Data-Lounge-Bremen/) to connect people in and aroung bremen that share interestes in all sorts of data topics. We try to organize one event in each quarter of the year. I am very proud to have such a nice community that is always willing to communicate their experiences. You are wecome to join us and, if you are interested, to give a talk on one of our meetup events.
 
-## About Sven Thies
+## Sven Thies
 
- I am a data scientist at [Traum-Ferienwohnungen GmbH](https://www.traum-ferienwohnungen.de/), a medium-sized company providing a two-sided marketplace for rental apartments in over 70 countries located in the city of Bremen. My background is in statistical finance and business administration. After my PhD at Bremen University, I slipped into data science like most of us. But after several years of experince I really can tell that I love to work in this field, talk about it and teach students how to become mini data scientists. If you want to learn more about my CV, check out my profiles at [XING](https://www.xing.com/profile/Sven_Thies/cv?sc_o=mxb_p) or [LinkedIn](https://www.linkedin.com/in/sven-thies-7a171b4b/). 
+ I am a data scientist at [Traum-Ferienwohnungen GmbH](https://www.traum-ferienwohnungen.de/), a medium-sized company providing a two-sided marketplace for rental apartments in over 70 countries located in the city of Bremen. My background is in statistical finance and business administration. After my PhD at Bremen University, I slipped into data science like most of us. But after several years of experience I really can tell that I love to work in this field, talk about it and teach students how to become mini data scientists. If you want to learn more about my CV, check out my profiles at [XING](https://www.xing.com/profile/Sven_Thies/cv?sc_o=mxb_p) or [LinkedIn](https://www.linkedin.com/in/sven-thies-7a171b4b/). 
