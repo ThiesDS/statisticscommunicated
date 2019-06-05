@@ -35,7 +35,7 @@ tags = ["Machine Learning Pipeline"]
 
 # Links (optional).
 url_pdf = ""
-url_slides = "https://1drv.ms/b/s!AqERfQBmXWMpkbxnPfHRdb9wpiA30A?e=tkrWhj"
+url_slides = "https://1drv.ms/b/s!AqERfQBmXWMpkbxn0tIxPurgTgOrXA"
 url_video = ""
 url_code = ""
 
